@@ -3,8 +3,9 @@
 
 - status
 - add
-- commit
+- commitl
 - log
 - restre
 - branch
 - switch
+- merge
